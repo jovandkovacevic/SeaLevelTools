@@ -21,16 +21,16 @@ Authors@R: c(
       comment = c(ORCID="0000-0003-2679-9677"),
     )
   )
-Description: SeaLevelTools provides functions for simulating sea-level rise and fall 
-    using raster-based elevation models. The package enables relative vertical 
-    datum transformation of Digital Terrain Models (DTMs) and integration with 
-    bathymetric data to generate continuous terrestrial–marine Digital Elevation 
-    Models (DEMs). It supports coastal exposure modeling, paleogeographic reconstruction, 
-    submerged landscape analysis, and climate change impact assessment. 
-    Optional gap-filling and threshold-based terrain filtering allow 
-    reconstruction of incomplete elevation surfaces and scenario-based 
-    landscape simulation. The package is designed for applications in coastal engineering, 
-    geomorphology, archaeology, environmental modeling, and geospatial analysis.
+Description: Simulates sea-level rise and fall from raster-based elevation models 
+    through functions for relative vertical datum transformation of Digital 
+    Terrain Models (DTMs) and integration with bathymetric data to produce 
+    continuous terrestrial–marine Digital Elevation Models (DEMs). Supports 
+    coastal exposure modeling, paleogeographic reconstruction, submerged landscape 
+    analysis, and climate change impact assessment. Optional gap-filling and 
+    threshold-based terrain filtering facilitate reconstruction of incomplete 
+    elevation surfaces and scenario-based landscape simulation. 
+    Applications span coastal engineering, geomorphology, archaeology, 
+    environmental modeling, and geospatial analysis.
 License: GPL (>= 3)
 Encoding: UTF-8
 LazyData: true
